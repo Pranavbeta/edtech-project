@@ -1,0 +1,18 @@
+# Python-related files
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Node.js-related files
+node_modules/
+C:\Desktop\ED-tech\Frontend\edtech\node_modules
+build/
+
+# Environment variables
+.env
+
+# System files
+.idea/
+.vscode/
