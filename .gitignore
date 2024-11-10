@@ -5,6 +5,11 @@ __pycache__/
 *.pyo
 .DS_Store
 
+# Ignore virtual environments
+C:\Desktop\ED-tech\.venv
+.venv/
+venv/
+
 # Node.js-related files
 node_modules/
 C:\Desktop\ED-tech\Frontend\edtech\node_modules
@@ -16,3 +21,7 @@ build/
 # System files
 .idea/
 .vscode/
+
+# Rasa specific ignores
+.rasa/
+models/
