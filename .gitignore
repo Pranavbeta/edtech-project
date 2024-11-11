@@ -1,27 +1,25 @@
-# Python-related files
+# Virtual Environment
 .venv/
-__pycache__/
-*.pyc
-*.pyo
-.DS_Store
-
-# Ignore virtual environments
 C:\Desktop\ED-tech\.venv
-.venv/
-venv/
 
-# Node.js-related files
+# Python Files
+*.pyc
+__pycache__/
+
+# Node.js Files
 node_modules/
 C:\Desktop\ED-tech\Frontend\edtech\node_modules
+dist/
 build/
 
-# Environment variables
-.env
-
-# System files
-.idea/
-.vscode/
-
-# Rasa specific ignores
+# Rasa Files
 .rasa/
-models/
+C:\Desktop\ED-tech\Chatbot\.rasa
+logs/
+*.sqlite
+*.tar.gz
+C:\Desktop\ED-tech\Chatbot\rasa_venv
+
+# System Files
+.DS_Store
+Thumbs.db
