@@ -5,7 +5,8 @@ C:\Desktop\ED-tech\.venv
 # Python Files
 *.pyc
 __pycache__/
-
+*.pyd
+*.dll
 # Node.js Files
 node_modules/
 C:\Desktop\ED-tech\Frontend\edtech\node_modules
