@@ -19,7 +19,7 @@ C:\Desktop\ED-tech\Chatbot\.rasa
 logs/
 *.sqlite
 *.tar.gz
-C:\Desktop\ED-tech\Chatbot\rasa_venv
+
 
 # System Files
 .DS_Store
